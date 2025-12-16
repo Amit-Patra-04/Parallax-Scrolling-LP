@@ -1,0 +1,8 @@
+/*===== GOGGLE FONTS =====*/
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap");
+/*=== Colors ===*/
+:root {
+  --first-color: #0396A6;
+  --dark-color: #000;
+  --white-color: #F2F2F2;
+}
