@@ -22,3 +22,12 @@
     --normal-font-size: 1rem;
   }
 }
+
+/*=== z index ===*/
+:root {
+  --z-back: -10;
+  --z-normal: 1;
+  --z-tooltip: 10;
+  --z-fixed: 100;
+  --z-modal: 1000;
+}
