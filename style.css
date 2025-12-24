@@ -112,3 +112,21 @@ img {
     transition: .3s;
   }
 }
+
+.nav__logo {
+  color: var(--white-color);
+}
+
+.nav__item {
+  margin-bottom: 2rem;
+}
+
+.nav__link {
+  color: var(--white-color);
+}
+
+.nav__toggle {
+  font-size: 1.5rem;
+  color: var(--white-color);
+  cursor: pointer;
+}
