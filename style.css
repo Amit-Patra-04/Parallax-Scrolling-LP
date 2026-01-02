@@ -130,3 +130,8 @@ img {
   color: var(--white-color);
   cursor: pointer;
 }
+
+/*=== Show menu ===*/
+.show {
+  top: 3rem;
+}
