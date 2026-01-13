@@ -295,3 +295,10 @@ img {
     width: 470px;
   }
 }
+
+@media screen and (min-width: 1200px) {
+  .bd-grid {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
